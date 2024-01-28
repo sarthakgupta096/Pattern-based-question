@@ -1,4 +1,5 @@
-
+//question link
+https://www.codingninjas.com/studio/problems/reverse-star-triangle_6573685
 Problem statement
 Ninja was very fond of patterns. For a given integer ‘N’, he wants to make the Reverse N-Star Triangle.
 
