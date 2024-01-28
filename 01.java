@@ -1,3 +1,5 @@
+//question link
+https://www.codingninjas.com/studio/problems/n-forest_6570177
 package Pattern;
 
  /*Problem statement
