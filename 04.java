@@ -1,3 +1,5 @@
+//question link
+https://www.codingninjas.com/studio/problems/triangle_6573690
 package Pattern;
 
  /*Problem statement
