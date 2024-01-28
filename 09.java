@@ -1,3 +1,5 @@
+//question link
+https://www.codingninjas.com/studio/problems/star-diamond_6573686
 
 Ninja was very fond of patterns. For a given integer ‘N’, he wants to make the N-Star Diamond.
 
