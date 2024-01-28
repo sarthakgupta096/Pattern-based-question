@@ -1,4 +1,6 @@
 
+//question link
+https://www.codingninjas.com/studio/problems/rotated-triangle_6573688
 Problem statement
 Ninja was very fond of patterns. For a given integer ‘N’, he wants to make the N-Star Rotated Triangle.
 
