@@ -1,3 +1,5 @@
+//question link
+https://www.codingninjas.com/studio/problems/seeding_6581892
 package Pattern;
 
  /*Problem statement
