@@ -1,4 +1,5 @@
-
+//question link
+https://www.codingninjas.com/studio/problems/reverse-number-triangle_6581889
 
 */
 Aryan and his friends are very fond of the pattern. For a given integer ‘N’, they want to make the Reverse N-Number Triangle.
