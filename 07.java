@@ -1,4 +1,5 @@
-
+//question link
+https://www.codingninjas.com/studio/problems/star-triangle_6573671
 
 //Problem statement
 Ninja was very fond of patterns. For a given integer ‘N’, he wants to make the N-Star Triangle.
